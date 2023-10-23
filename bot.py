@@ -8,7 +8,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 channelID = 1165750660776595630
 ServerID = 1165750659715432550
 
-Token = "MTE2NTc1MTA3MzE0Nzk5ODI4OQ.GIs_Bk.V6DHX7McUpTovv4P7His4wnpvbpnrKHtezYJR4"
+Token =
 
 try:
     with open('LastXKCD.txt','x') as f:
